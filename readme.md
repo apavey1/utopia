@@ -1,6 +1,6 @@
 <div align="center">
-	![Venn Logo](https://raw.githubusercontent.com/apavey1/utopia/master/master/docs/utopialogo.svg)
-	###Version 0.1.X
+    ![Venn Logo](https://raw.githubusercontent.com/apavey1/utopia/master/master/docs/utopialogo.svg)
+    ###Version 0.1.X
 </div>
 
 ##About
