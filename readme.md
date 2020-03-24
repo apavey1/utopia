@@ -17,7 +17,7 @@ Utopia is available today in an alpha version for AdBlock Plus, and support for 
 6. **Leave the title section blank** - Or name it 'Utopia' if you'd like. Either way, it will be changed to 'Utopia' whenever the list is updated.
 7. **In the text field labelled 'Filter list location,' copy and paste the following web address:**
 > https://raw.githubusercontent.com/apavey1/utopia/master/Utopia.txt
-**Finally, click the button labeled '+Add.'** Congratulations! You're finished downloading Utopia! Now, you'll receive updates automatically.
+8. **Finally, click the button labeled '+Add.'** Congratulations! You're finished downloading Utopia! Now, you'll receive updates automatically.
 
 ## Support Us
 Utopia is built by journalists, and we'd love your support as we continue to make it better. Check back soon for more details on how to support the project.
