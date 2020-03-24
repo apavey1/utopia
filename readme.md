@@ -1,5 +1,5 @@
 <div align="center">
-    ![Utopia](https://raw.githubusercontent.com/apavey1/utopia/master/master/docs/utopialogo.png)
+    ![Utopia](https://raw.githubusercontent.com/apavey1/utopia/master/docs/utopialogo.png)
     ### Version 0.1.X
 </div>
 
