@@ -1,5 +1,5 @@
 <div align="center">
-    ![Venn Logo](https://raw.githubusercontent.com/apavey1/utopia/master/master/docs/utopialogo.svg)
+    ![Utopia](https://raw.githubusercontent.com/apavey1/utopia/master/master/docs/utopialogo.png)
     ### Version 0.1.X
 </div>
 
