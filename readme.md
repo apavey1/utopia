@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/apavey1/utopia/master/docs/utopialogo.png" width="800" /> 
    
-   ### Version 0.1.X
+   ### alpha version 0.1.X
 </div>
 
 ## About
