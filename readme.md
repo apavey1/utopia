@@ -1,5 +1,5 @@
 <div align="center">
-    ![Utopia logo](https://raw.githubusercontent.com/apavey1/utopia/master/docs/utopialogo.png "Logo Title Text 1")
+    <img src="https://raw.githubusercontent.com/apavey1/utopia/master/docs/utopialogo.png" width="800" />
     ### Version 0.1.X
 </div>
 
