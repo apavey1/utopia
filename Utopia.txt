@@ -1,9 +1,9 @@
 ! [Adblock Plus 2.0]
 ! Title: Utopia
-! Version: 0.1.1
+! Version: 0.2 
 ! Homepage: TBA
 ! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
-! Last updated: Monday, March 23, 2020
+! Last updated: Saturday, May 23, 2020
 !
 ! NATIONAL & GLOBAL
 !
