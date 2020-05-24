@@ -1,9 +1,9 @@
 ! [Adblock Plus 2.0]
 ! Title: Utopia
-! Version: 0.2 
-! Homepage: TBA
-! Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
-! Last updated: Saturday, May 23, 2020
+! Version: 1.0
+! Homepage: www.github.com/apavey1/utopia
+! Licence: CC BY-NC-ND 4.0 (www.creativecommons.org/licenses/by-nc-nd/4.0/)
+! Last updated: Sunday, May 24, 2020
 !
 ! NATIONAL & GLOBAL
 !
@@ -2435,4 +2435,3 @@
 @@||torringtontelegram.com^$document
 @@||trib.com^$document
 @@||wyomingnews.com^$document
->>>>>>> 075c7b0... Add all remaining newspaper data
