@@ -75,6 +75,12 @@
 !
 ! ALABAMA
 !
+<<<<<<< HEAD
+=======
+!
+! ALABAMA
+!
+>>>>>>> ddd0ecf... Added new data for 13 U.S. states
 @@||al.com^$document
 @@||andalusiastarnews.com^$document
 @@||annistonstar.com^$document
@@ -634,6 +640,7 @@
 @@||washington-ia.villagesoup.com^$document
 @@||waukonstandard.com^$document
 !
+<<<<<<< HEAD
 ! KANSAS
 !
 @@||arkvalleynews.com^$document
@@ -1071,6 +1078,15 @@
 @@||starnewsgroup.com^$document
 @@||towntopics.com^$document
 @@||trentonian.com^$document
+=======
+! KENTUCKY
+!
+@@||harlanonline.com^$document
+!
+! MISSOURI
+!
+@@||kansascity.com^$document
+>>>>>>> ddd0ecf... Added new data for 13 U.S. states
 !
 ! NEW MEXICO
 !
@@ -1092,6 +1108,7 @@
 @@||santafenewmexican.com^$document
 @@||taosnews.com^$document
 !
+<<<<<<< HEAD
 ! NEW YORK
 !
 @@||27east.com^$document
@@ -1732,3 +1749,13 @@
 @@||torringtontelegram.com^$document
 @@||trib.com^$document
 @@||wyomingnews.com^$document
+=======
+! TEXAS
+!
+@@||dallasnews.com^$document
+@@||texastribune.org^$document
+!
+! WASHINGTON
+!
+@@||seattletimes.com^$document
+>>>>>>> ddd0ecf... Added new data for 13 U.S. states
