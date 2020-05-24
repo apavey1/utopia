@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="docs/utopiaLogoNew.jpeg" /> 
+    <img src="docs/utopiaLogoNew.jpg" alt="Utopia for AdBlock logo"/> 
 </div>
 <hr/>
 
@@ -7,7 +7,7 @@
 Utopia is a free extension for your ad-blocking software that whitelists news sites but continues to block advertisements everywhere else. In other words, you'll only see advertisements on the news sources that need your financial support - not clickbait, Facebook, or Twitter.
 
 ## Installation Guide
-1. **Make sure you're using a compatible browser.** [Click here](readme.md#frequently-asked-questions) for a full list.
+1. **Make sure you're using a compatible browser.** See below for a full list.
 2. **Install AdBlock Plus.** [Click this link](https://adblockplus.org/en/) to download it.
 3. **Navigate to the AdBlock Plus Options menu** by clicking on the AdBlock Plus icon in your browser's toolbar.
 4. **Click 'Add filter subscription.'**
@@ -19,7 +19,7 @@ Utopia is a free extension for your ad-blocking software that whitelists news si
 
 ## Frequently Asked Questions
 
-### What browsers are compatible with Utopia? {#browsers}
+### What browsers are compatible with Utopia?
 Firefox, Google Chrome, Opera, Safari, Internet Explorer, Microsoft Edge, Firefox Mobile, SeaMonkey, Yandex.Browser, and Thunderbird are compatible.
 
 ### How can I contribute or suggest a news source for inclusion?
