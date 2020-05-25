@@ -1,15 +1,15 @@
-<div align="center">
-    <img src="docs/utopiaLogoNew.jpg" alt="Utopia for AdBlock logo"/> 
-</div>
-<hr/>
+<img src="docs/utopiaLogoNew.jpg" alt="Utopia for AdBlock logo"/>
+<a href="https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Fapavey1%2Futopia%2Fmaster%2FUtopia.txt&amp;title=Utopia"/>
+	<img src="docs/installButton.jpg" alt="Install"/>
+</a>
 
 ## About
-Utopia is a free extension for your ad-blocking software that whitelists news sites but continues to block advertisements everywhere else. In other words, you'll only see advertisements on the news sources that need your financial support - not clickbait, Facebook, or Twitter.
+Utopia is a free extension for your ad-blocking software that whitelists news sites but continues to block advertisements everywhere else. In other words, you'll only see ads on the news sources that need your financial support - not clickbait, Facebook, or Twitter. [Click here](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Fapavey1%2Futopia%2Fmaster%2FUtopia.txt&amp;title=Utopia) to install.
 
-## Installation Guide
+## Manual Installation Guide
 1. Make sure you're using a compatible browser. See below for a full list.
 2. Install Adblock Plus. [Click this link](https://adblockplus.org/en/) to download it.
-3. Navigate to the AdBlock Plus Options menu by selecting on the Adblock Plus icon in your browser's toolbar, and then selecting the gear.
+3. Navigate to the AdBlock Plus settings menu by selecting on the Adblock Plus icon in your browser's toolbar, and then selecting the gear icon.
 4. In the left sidebar, select 'Advanced.'
 5. Under 'Filter Lists,' select '+Add filter list via URL.'
 6. In the text field, copy and paste the following web address:
