@@ -1,6 +1,6 @@
 <img src="docs/utopiaLogoNew.jpg" alt="Utopia for AdBlock logo"/>
 <a href="https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Fapavey1%2Futopia%2Fmaster%2FUtopia.txt&amp;title=Utopia"/>
-	<img src="docs/installButton.jpg" alt="Install"/>
+<img src="docs/utopiaButton.jpg" alt="Install"/>
 </a>
 
 ## About
